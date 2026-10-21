@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm ChrisM1914 👋
 
-<!--
-**ChrisM1914/ChrisM1914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Student building skills in Python, Git, and data tools.
 
-Here are some ideas to get you started:
+## Tools I use
+- Python (Anaconda)
+- Jupyter Notebook
+- VS Code
+- GitHub Desktop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [My GitHub](https://github.com/ChrisM1914)
