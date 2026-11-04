@@ -19,7 +19,7 @@ I am a M.S. Informatics student building skills in Python, REST APIs, Flask, and
 | [python_concepts](https://github.com/ChrisM1914/python_concepts) | Core Python concepts and practice | Python, Jupyter |
 | [flask_api_assignment](https://github.com/ChrisM1914/flask_api_assignment) | Flask API assignment | Python, Flask |
 | [REST-CRUD-API-Dynamic-Formatting](https://github.com/ChrisM1914/REST-CRUD-API-Dynamic-Formatting) | Module 3, Assignment 1: CRUD API with dynamic formatting | Python, REST |
-| [REST-GUI-API](https://github.com/ChrisM1914/REST-GUI-API) | Module 3, Assignment 2: Flask API plus a GUI app consuming JSON | Python, Flask |
+| [REST-GUI-API](https://github.com/ChrisM1914/REST-GUI-API) | Module 3, Assignment 2: Flask API plus a GUI app consuming JSON | Python, Flask, JSON, Tkinter |
 
 ## Links
 - [My GitHub](https://github.com/ChrisM1914)
