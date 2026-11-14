@@ -21,6 +21,8 @@ I am a M.S. Informatics student building skills in Python, REST APIs, Flask, and
 | [REST-CRUD-API-Dynamic-Formatting](https://github.com/ChrisM1914/REST-CRUD-API-Dynamic-Formatting) | Module 3, Assignment 1: CRUD API with dynamic formatting | Python, REST, JSON |
 | [REST-GUI-API](https://github.com/ChrisM1914/REST-GUI-API) | Module 3, Assignment 2: Flask API plus a GUI app consuming JSON | Python, Flask, JSON, Tkinter |
 | [REST-API-PUBLIC-FETCH](https://github.com/ChrisM1914/REST-API-PUBLIC-FETCH) | Module 4: Assignment 1 -- Build a RESTful Application That Talks to an External API with Async Fetch | Python, FLASK, Requests, venv/pip, API |
+| [REST-PERSISTENT-DATA-API](https://github.com/ChrisM1914/REST-PERSISTENT-DATA-API) | Module 4: Assignment 2 -- Build a Simple Clinical Records RESTful API with Persistent Data | Python, FLask, JSON, SQLite |
+| [RESTful API Planning](https://github.com/ChrisM1914/RESTFUL-API-PLANNING/tree/main) | Module 4: Assignment 3 -- Planning a RESTful API with Fetch GET |
 
 ## Links
 - [My GitHub](https://github.com/ChrisM1914)
