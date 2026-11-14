@@ -10,6 +10,8 @@ I am a M.S. Informatics student building skills in Python, REST APIs, Flask, and
 - Flask
 - JSON
 - RESTful APIs
+- Fetch GET
+- SQLite
 - GitHub Desktop
 
 ## Portfolio
