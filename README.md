@@ -25,6 +25,7 @@ I am a M.S. Informatics student building skills in Python, REST APIs, Flask, and
 | [REST-API-PUBLIC-FETCH](https://github.com/ChrisM1914/REST-API-PUBLIC-FETCH) | Module 4: Assignment 1 -- Build a RESTful Application That Talks to an External API with Async Fetch | Python, FLASK, Requests, venv/pip, API |
 | [REST-PERSISTENT-DATA-API](https://github.com/ChrisM1914/REST-PERSISTENT-DATA-API) | Module 4: Assignment 2 -- Build a Simple Clinical Records RESTful API with Persistent Data | Python, FLask, JSON, SQLite |
 | [RESTful API Planning](https://github.com/ChrisM1914/RESTFUL-API-PLANNING/tree/main) | Module 4: Assignment 3 -- Planning a RESTful API with Fetch GET |
+| SOAP-API-PUBLIC-FETCH(https://github.com/ChrisM1914/SOAP-API-PUBLIC-FETCH) | Module 5: Assignment -- SOAP Client API Development with Validation and Service Hosting | WSDL, SOAP, Stubs, Validation |
 
 ## Links
 - [My GitHub](https://github.com/ChrisM1914)
