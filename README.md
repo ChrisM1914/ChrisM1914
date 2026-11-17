@@ -12,6 +12,8 @@ I am a M.S. Informatics student building skills in Python, REST APIs, Flask, and
 - RESTful APIs
 - Fetch GET
 - SQLite
+- SOAP
+- WSDL
 - GitHub Desktop
 
 ## Portfolio
